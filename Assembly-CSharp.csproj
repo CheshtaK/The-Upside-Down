@@ -53,8 +53,10 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\InterdimensionalTransport.cs" />
+     <None Include="Assets\Shaders\StandardStencilFilter.shader" />
      <None Include="Assets\Shaders\PortalWindow.shader" />
      <None Include="Assets\Shaders\StencilFilter.shader" />
+     <None Include="Assets\Shaders\SpecularStencilFilter.shader" />
  <Reference Include="Vuforia.UnityExtensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
